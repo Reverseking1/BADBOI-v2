@@ -10,9 +10,9 @@ global.ytname = "🕷BADBOI-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
-global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
+global.ownernumber = '233257514504,233257514504,233257514504'  //creator number
+global.ownername = '🕷Reverse  King Bug🕷' //owner name
+global.botname = '🕷Reverse  King Bug🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
